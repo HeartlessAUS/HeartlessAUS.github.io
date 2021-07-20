@@ -1,0 +1,109 @@
+/**
+ * @name Modern UI
+ * @author Hearty
+ * @invite http://voice.voltegames.club
+ * @version 1.5
+ * @description A decluttered, simple, and modern theme for Discord. Requires Hardware Acceleration to be on.
+*/
+
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
+@import url("https://discordstyles.github.io/RadialStatus/base.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
+@import url("https://HeartlessAUS.github.io/themes/ModernUI.css");
+html:root {
+	--font-display:var(--font-primary);
+}
+:root {
+	--__adaptive-focus-color:#99999944;
+	--app-info-bar-height:48px;
+	--avatar-speaking-color:#3ba55d;
+	--bdfdb-blurple:#99999944;
+	--rs-avatar-shape:50%;
+	--rs-dnd-color:#f04747;
+	--rs-idle-color:#faa61a;
+	--rs-invisible-color:#747f8d;
+	--rs-large-spacing:4px;
+	--rs-large-width:4px;
+	--rs-medium-spacing:3px;
+	--rs-medium-width:3px;
+	--rs-offline-color:#636b75;
+	--rs-online-color:#43b581;
+	--rs-phone-color:var(--rs-online-color);
+	--rs-phone-visible:none;
+	--rs-small-spacing:1px;
+	--rs-small-width:1px;
+	--rs-streaming-color:#643da7;
+	--server-icon-size:38px;
+	--server-outer-margin:8px;
+	--server-spacing:10px;
+	--settingsiconsgap:14px;
+	--settingsiconssize:25px;
+	--username-button-padding:6px;
+	--username-button-right-margin:12px;
+	--username-button-width:128px;
+	--app-corner-size:0;
+	--app-windowbar-height:var(--server-container);
+	--background-mentioned:none;
+	--background-mentioned-hover:none;
+	--background-message-hover:none;
+	--control-area-bottom-margin:var(--text-area-bottom-margin);
+	--dropdown-button-width:calc(220px - 8px - 8px);
+	--embed-border-radius:25px;
+	--embed-line-width:256px;
+	--member-list-width:240px;
+	--server-banner-height:calc((135 / 240) * var(--sidebar-width));
+	--server-container:calc(var(--server-size) + (2 * var(--server-outer-margin)));
+	--server-margin:var(--server-spacing,var(--HSL-spacing,10px));
+	--server-size:var(--server-icon-size,var(--HSL-size,35px));
+	--sidebar-width:240px;
+	--text-area-bottom-margin:24px;
+	--user-avatar-size:32px;
+	--user-outer-right-margin:calc(var(--username-button-right-margin) + (var(--windowcontrol-buttons-width) * 3));
+	--windowcontrol-buttons-height:30px;
+	--windowcontrol-buttons-width:45px;
+	--ephemeral-color:255,255,255;
+	--mentioned-color:50,50,50;
+	--reply-color:0,255,0;
+}
+.theme-dark {
+	--linkpreview-background:#35363a;
+	--linkpreview-border:#2f3033;
+	--linkpreview-color:#e8eaed;
+	--activity-card-background:#242424;
+	--background-accent:#575757;
+	--background-floating:#1a1a1a;
+	--background-mobile-primary:#3b3b3b;
+	--background-mobile-secondary:#333;
+	--background-modifier-accent:rgba(255,255,255,0.06);
+	--background-modifier-active:rgba(87,87,87,0.24);
+	--background-modifier-hover:rgba(87,87,87,0.1);
+	--background-modifier-selected:rgba(100,100,100,0.2);
+	--background-primary:#121212;
+	--background-primary-transparent:rgba(70,70,70,0.2);
+	--background-transparent: transparent;
+	--background-secondary:#181818;
+	--background-secondary-alt:#333;
+	--background-tertiary:#303030;
+	--channels-default:#919191;
+	--channeltextarea-background:#282828;
+	--deprecated-quickswitcher-input-background:rgba(120,120,120,0.15);
+	--deprecated-text-input-border-disabled:#242424;
+	--deprecated-text-input-border-hover:#050505;
+	--deprecated-text-input-prefix:#dedede;
+	--header-primary:#fff;
+	--header-secondary:#bdbdbd;
+	--interactive-active:#fff;
+	--interactive-hover:#dedede;
+	--interactive-muted:#575757;
+	--interactive-normal:#bdbdbd;
+	--scrollbar-auto-scrollbar-color-thumb:#242424;
+	--scrollbar-auto-scrollbar-color-track:#333;
+	--scrollbar-auto-thumb:#4e4e4e;
+	--scrollbar-auto-track:#242424;
+	--scrollbar-thin-thumb:#242424;
+	--scrollbar-thin-track:transparent;
+	--text-link:#00b0f4;
+	--text-muted:#787878;
+	--text-normal:#dedede;
+	--text-positive:#4fdc7b;
+}
