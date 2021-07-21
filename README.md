@@ -97,8 +97,8 @@ To get a local copy up and running follow these simple steps.
 3. Enable
   * Open Discord
   * Go to User Settings
-  * Navagate to BetterDiscord sub-section
-  * Open themes panal
+  * Navagate to the BetterDiscord sub-section
+  * Open the themes panel
   * Enable ModernUI
 
 
