@@ -112,4 +112,4 @@ Be sure Hardware Acceleration is enabled in Discord Settings. (Advanced Settings
 
 Currently colors arent correctly implemented, please wait for future versions.
     
-See the [open issues](https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues) for a list of proposed features (and known issues).
+## See the [open issues](https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues) for a list of proposed features (and known issues).
