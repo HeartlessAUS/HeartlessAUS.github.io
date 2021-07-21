@@ -19,7 +19,7 @@
   </a>
   
   <p align="center">
-    A decluttered, simple, and modern theme for Discord. Requires Hardware Acceleration to be on.
+    A decluttered, simple, and modern theme for Discord.
     <br />
     <br />
     <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io">View Demo</a>
@@ -49,7 +49,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#issues">Roadmap</a></li>
   </ol>
 </details>
 
@@ -101,8 +101,13 @@ To get a local copy up and running follow these simple steps.
   * Open the themes panel
   * Enable ModernUI
 
+<!-- Issues -->
+## Known Issues
 
-<!-- ROADMAP -->
-## Roadmap
-
+### Things dont look right
+    * Be sure *Hardware Acceleration* is enabled in Discord Settings. (Advanced Settings)
+    
+### Some colors are off
+    * Currently colors arent correctly implemented, please wait for future versions.
+    
 See the [open issues](https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues) for a list of proposed features (and known issues).
