@@ -49,7 +49,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#issues">Roadmap</a></li>
+    <li><a href="#known-issues">Issues</a></li>
   </ol>
 </details>
 
