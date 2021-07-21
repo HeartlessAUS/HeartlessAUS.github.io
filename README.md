@@ -105,9 +105,11 @@ To get a local copy up and running follow these simple steps.
 ## Known Issues
 
 ### Things dont look right
+
     * Be sure *Hardware Acceleration* is enabled in Discord Settings. (Advanced Settings)
     
 ### Some colors are off
+
     * Currently colors arent correctly implemented, please wait for future versions.
     
 See the [open issues](https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues) for a list of proposed features (and known issues).
