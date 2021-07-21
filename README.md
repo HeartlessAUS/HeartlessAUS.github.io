@@ -58,9 +58,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+todo
 
 
 ### Included
@@ -76,16 +74,12 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-Required
+###### Required
 * **[BetterDiscord](https://betterdiscord.app)**
     * download & install to your main discord type.
 
-Optional
+###### Optional
 * **[Heart's Plugin Suite](https://betterdiscord.app)** _Not Ready_
-
-######  *OR:*
-
- _Not Ready_
 
 
 
