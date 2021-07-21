@@ -1,5 +1,3 @@
-# HeartlessAUS.github.io
-
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -16,23 +14,19 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io">
     <img src="images/logo.png" alt="Logo" width="561" height="128">
   </a>
-
-  <h3 align="center">project_title</h3>
-
+  
   <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    A decluttered, simple, and modern theme for Discord. Requires Hardware Acceleration to be on.
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io/issues">Request Feature</a>
   </p>
 </p>
 
