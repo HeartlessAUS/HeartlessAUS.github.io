@@ -75,9 +75,8 @@ Here's a blank template to get started:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+####Required:
+* [BetterDiscord](https://betterdiscord.app)
   ```sh
   npm install npm@latest -g
   ```
