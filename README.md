@@ -75,11 +75,16 @@ Here's a blank template to get started:
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-###### Required:
-* *[BetterDiscord](https://betterdiscord.app)*
-  ```sh
-  npm install npm@latest -g
-  ```
+
+###### Required
+* **[BetterDiscord](https://betterdiscord.app)**
+    * download & install to your main discord type.
+    * 
+###### Optional
+* **[BetterDiscord](https://betterdiscord.app)**
+    * download & install to your main discord type.
+
+
 
 ### Installation
 
