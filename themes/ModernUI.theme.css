@@ -2,14 +2,13 @@
  * @name Modern UI
  * @author Hearty
  * @invite http://voice.voltegames.club
- * @version 1.5.3
+ * @version 1.5.4
  * @description A decluttered, simple, and modern theme for Discord. Requires Hardware Acceleration to be on.
 */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
 @import url("https://discordstyles.github.io/RadialStatus/base.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
-@import url("https://HeartlessAUS.github.io/themes/ModernUI.css");
-@import url("https://HeartlessAUS.github.io/themes/talkingindi.css");
+/* @import url("https://HeartlessAUS.github.io/themes/ModernUI.css"); */
 @import url("https://HeartlessAUS.github.io/themes/extras.css");
 html:root {
 	--font-display:var(--font-primary);
@@ -17,7 +16,6 @@ html:root {
 :root {
 	--__adaptive-focus-color:#99999944;
 	--app-info-bar-height:48px;
-	--avatar-speaking-color:#3ba55d;
 	--bdfdb-blurple:#99999944;
 	--rs-avatar-shape:50%;
 	--rs-dnd-color:#f04747;

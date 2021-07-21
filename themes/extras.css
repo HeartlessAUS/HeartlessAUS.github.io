@@ -2,7 +2,7 @@
 
 .info-1VyQPT:after {
 color:var(--text-muted);
-content:"ModernUI - version 1.5.3";
+content:"ModernUI - version 1.5.4";
 position:relative;
 top:16px;
 }
@@ -84,4 +84,22 @@ background-image:url(https://i.gyazo.com/19716f7aab5393e8c37f1451166e48e7.png);
 left:65px;
 top:-5px;
 transform:rotate(44deg);
+}
+
+/* -==================== Talking Indicators ====================- */
+:root{
+	--avatar-speaking-color:#3ba55d;
+}
+.avatarSpeaking-2IGMRN{
+	--box-shadow:inset 0 0 0 2px var(--avatar-speaking-color),inset 0 0 0 3px var(--background-secondary);
+	-webkit-box-shadow:var(--box-shadow);
+	box-shadow:var(--box-shadow);
+}
+
+.avatarSpeaking-2IGMRN[style*="92258383519817728"] {
+--avatar-speaking-color:#ffd700;
+}
+
+.avatarSpeaking-2IGMRN[style*="392889726530748416"] {
+--avatar-speaking-color:#c09cff;
 }
