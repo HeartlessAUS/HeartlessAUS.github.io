@@ -97,9 +97,9 @@ transform:rotate(44deg);
 }
 
 .avatarSpeaking-2IGMRN[style*="92258383519817728"] {
---avatar-speaking-color:#ffd700;
+--avatar-speaking-color:#ffd700 !important;
 }
 
 .avatarSpeaking-2IGMRN[style*="392889726530748416"] {
---avatar-speaking-color:#c09cff;
+--avatar-speaking-color:#c09cff !important;
 }
