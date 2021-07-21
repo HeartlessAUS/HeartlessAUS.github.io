@@ -76,14 +76,14 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-###### Required
+Required
 * **[BetterDiscord](https://betterdiscord.app)**
     * download & install to your main discord type.
 
-###### Optional
+Optional
 * **[Heart's Plugin Suite](https://betterdiscord.app)** _Not Ready_
 
-*OR:*
+######  *OR:*
 
  _Not Ready_
 
