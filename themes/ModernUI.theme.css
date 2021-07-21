@@ -2,14 +2,15 @@
  * @name Modern UI
  * @author Hearty
  * @invite http://voice.voltegames.club
- * @version 1.5
+ * @version 1.5.1
  * @description A decluttered, simple, and modern theme for Discord. Requires Hardware Acceleration to be on.
 */
-
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css");
 @import url("https://discordstyles.github.io/RadialStatus/base.css");
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css");
-@import url("https://HeartlessAUS.github.io/themes/ModernUI.css");
+
+/* @import url("https://HeartlessAUS.github.io/themes/ModernUI.css"); */
+
 html:root {
 	--font-display:var(--font-primary);
 }
@@ -48,7 +49,7 @@ html:root {
 	--background-message-hover:none;
 	--control-area-bottom-margin:var(--text-area-bottom-margin);
 	--dropdown-button-width:calc(220px - 8px - 8px);
-	--embed-border-radius:25px;
+	--border-radius:25px;
 	--embed-line-width:256px;
 	--member-list-width:240px;
 	--server-banner-height:calc((135 / 240) * var(--sidebar-width));
@@ -80,6 +81,7 @@ html:root {
 	--background-modifier-selected:rgba(100,100,100,0.2);
 	--background-primary:#121212;
 	--background-primary-transparent:rgba(70,70,70,0.2);
+	--background-secondary-transparent:rgba(0,0,0,0.4);
 	--background-transparent: transparent;
 	--background-secondary:#181818;
 	--background-secondary-alt:#333;
