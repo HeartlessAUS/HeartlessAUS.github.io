@@ -88,7 +88,7 @@ To get a local copy up and running follow these simple steps.
 * Download
  1. [Locate the latest ModernUI version here](https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/themes/ModernUI.theme.css)
  2. Press *Ctrl + S*
- 3. Save to a known location
+ 3. Save to a known location as **ModernUI.theme.css**
   
 * Install
  1. Locate your Better Discord themes folder (C:\Users\username\AppData\Roaming\betterdiscord)
