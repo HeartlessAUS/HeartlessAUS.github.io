@@ -1,0 +1,87 @@
+/* -==================== ModernUI Version ====================- */
+
+.info-1VyQPT:after {
+color:var(--text-muted);
+content:"ModernUI - version 1.5.2";
+position:relative;
+top:16px;
+}
+
+/* -==================== Server specials ====================- */
+/* BD */
+.container-3w7J-x[aria-label*="BetterDiscord"] .name-1jkAdW {
+color:#55f;
+}
+/* Volte */
+.container-3w7J-x[aria-label="Volté (server)"] .name-1jkAdW {
+animation:voltetext 20s linear 0s infinite normal;
+}
+
+.container-3w7J-x[aria-label="Volté (server)"] .name-1jkAdW::after {
+bottom:10px;
+color:#fff;
+content:"Unique Edition";
+font-size:12px;
+position:absolute;
+right:75px;
+}
+
+@keyframes voltetext {
+12% {
+color:#ffbf00;
+}
+
+25% {
+color:#80ff00;
+}
+
+37% {
+color:#00ff40;
+}
+
+50% {
+color:#0ff;
+}
+
+62% {
+color:#0040ff;
+}
+
+75% {
+color:#8000ff;
+}
+
+87% {
+color:#eb34bd;
+}
+
+0%,100% {
+color:red;
+}
+}
+
+
+/* -==================== Crowns ====================- */
+
+/* Hearty */
+.avatarWrapper::after {
+content:'';
+background-size:cover;
+height:24px;
+width:24px;
+overflow:visible;
+position:absolute;
+}
+.avatarWrapper[data-user-id*="92258383519817728"]::after {
+background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Simple_gold_crown.svg/1024px-Simple_gold_crown.svg.png);
+left:6px;
+top:-5px;
+transform:rotate(-40deg);
+}
+/* Dawn */
+.avatarWrapper[data-user-id*="392889726530748416"]::after {
+background-image:url(https://i.gyazo.com/19716f7aab5393e8c37f1451166e48e7.png);
+left:65px;
+top:-5px;
+transform:rotate(44deg);
+}
