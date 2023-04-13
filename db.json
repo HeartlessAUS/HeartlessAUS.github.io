@@ -68,9 +68,9 @@
             "serverType": "community"
         },{
             "id": "857017653607661598",
-            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/lighty_server.svg",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/betterdiscord_server.svg",
             "serverName": "Volte",
-            "serverType": "Community"
+            "serverType": "private"
         }
     ]
 }
