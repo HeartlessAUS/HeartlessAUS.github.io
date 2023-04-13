@@ -1,7 +1,72 @@
 {
-    "latestVersion": "1.0",
+    "latestVersion": "5.0.0",
     "servers": [
         {
+            "id": "831170964237713479",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/lighty_server.svg",
+            "serverName": "Lighty Emojis",
+            "serverType": "dead"
+        },
+        {
+            "id": "86004744966914048",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/betterdiscord_server.svg",
+            "serverName": "BetterDiscord",
+            "serverType": "community"
+        },
+        {
+            "id": "538759280057122817",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/powercord_server.svg",
+            "serverName": "Powercord",
+            "serverType": "dead"
+        },
+        {
+            "id": "756146058320674998",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/goosenest_server.svg",
+            "serverName": "GooseNest",
+            "serverType": "community"
+        },
+        {
+            "id": "820732039253852171",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/armcord_server.svg",
+            "serverName": "ArmCord",
+            "serverType": "community"
+        },
+        {
+            "id": "779760211522224138",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/nebulas_palace_server.svg",
+            "serverName": "Nebula's Palace",
+            "serverType": "community"
+        },
+        {
+            "id": "868523001921028206",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/hun&bun_priv_server.svg",
+            "serverName": "Hun & Bun",
+            "serverType": "private"
+        },
+        {
+            "id": "877624488341168138",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/stare_emojis_server.svg",
+            "serverName": "Stare Emojis",
+            "serverType": "community"
+        },
+        {
+            "id": "810920173464846407",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/projectps_server.svg",
+            "serverName": "Project PS",
+            "serverType": "community"
+        },
+        {
+            "id": "1009892699660365825",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/chsgayclob_server.svg",
+            "serverName": "CH Gaming Club Server",
+            "serverType": "community"
+        },
+        {
+            "id": "891039687785996328",
+            "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/kernel_server.svg",
+            "serverName": "Kernel Mod",
+            "serverType": "community"
+        },{
             "id": "857017653607661598",
             "logoURL": "https://raw.githubusercontent.com/DiscordCSL/database/main/res/lighty_server.svg",
             "serverName": "Volte",
