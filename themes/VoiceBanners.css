@@ -1,14 +1,10 @@
+@import url("https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/userdb.css");
+
 /* Read Text Easier */
 .username-vAneIW{
 	text-shadow: 1px 1px #000;
 }
 .voiceUser-3nRK-K{
 	background-size: cover !important;
-
-}
-
-
-/*Background Database*/
-.voiceUser-3nRK-K:has( [style*="92258383519817728"]){ /* Hearty */
-	background: url("https://cdn.discordapp.com/banners/92258383519817728/a_1b5c12f393c94c0d1d1a5efcba9ba7f0.gif?size=480");
+	border-radius: 25px;
 }
