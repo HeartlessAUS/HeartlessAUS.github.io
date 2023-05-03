@@ -78,6 +78,12 @@
             "logoURL": "https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/images/ilovebacons.svg",
             "serverName": "ILoveBacons",
             "serverType": "community"
+        },
+        {
+            "id": "729245824781123584",
+            "logoURL": "https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/images/frands.svg",
+            "serverName": "Frands",
+            "serverType": "private"
         }
     ]
 }
