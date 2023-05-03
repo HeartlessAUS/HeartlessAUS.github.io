@@ -19,7 +19,7 @@
   </a>
   
   <p align="center">
-    A decluttered, simple, and modern theme for Discord.
+    A fancy theme for Discord (Armcord).
     <br />
     <br />
     <a href="https://github.com/HeartlessAUS/HeartlessAUS.github.io">View Demo</a>
