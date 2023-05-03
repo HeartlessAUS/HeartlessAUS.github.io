@@ -63,44 +63,27 @@ todo
 
 ### Included
 
-* [Mwittrien User Backgrounds](https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/UsrBgs.css)
-* [Radial Status](https://discordstyles.github.io/RadialStatus/base.css)
-* [Mwittrien Icons](https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css)
+* [User Backgrounds](https://discord-custom-covers.github.io/usrbg/dist/usrbg.css)
+* [Radial Status](https://raw.githubusercontent.com/DiscordStyles/RadialStatus/deploy/RadialStatus.theme.css)
+* [Efficient Settings](https://minidiscordthemes.github.io/Snippets/EfficientSettings/EfficientSettings.css)
+* [Mwittrien Addons](https://mwittrien.github.io/BetterDiscordAddons/Themes)
+* [Material Discord](https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/source.css)
+* [Banner Skins](https://maendisease.github.io/BetterDiscordStuff/css/ProfileBannerSkins.css)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
-### Prerequisites
-
-###### Required
-* **[BetterDiscord](https://betterdiscord.app)**
-    * download & install to your main discord type.
-
-###### Optional
-* **[Heart's Plugin Suite](https://betterdiscord.app)** _Not Ready_
-
-
 
 ### Installation
 
-* Download
- 1. [Locate the latest ModernUI version here](https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/themes/ModernUI.theme.css)
- 2. Press *Ctrl + S*
- 3. Save to a known location as **ModernUI.theme.css**
-  
-* Install
- 1. Locate your Better Discord themes folder (C:\Users\username\AppData\Roaming\betterdiscord)
- 2. Drop downloaded ModernUI.theme.css into \themes folder
-  
-* Enable
- 1. Open Discord
- 2. Go to User Settings
- 3. Navagate to the BetterDiscord sub-section
- 4. Open the themes panel
- 5. Enable ModernUI
+ 1. [Download Armcord Here](https://github.com/ArmCord/ArmCord/releases/download/devbuild/ArmCord-3.2.0-win.zip)
+ 2. Install Armcord with *Vencord* and login
+ 3. Navigate to Settings | Vencord | Themes
+ 4. In Theme links, include *https://raw.githubusercontent.com/HeartlessAUS/HeartlessAUS.github.io/main/themes/ModernUI.theme.css*
 
+  
 <!-- Issues -->
 ## Known Issues
 
